@@ -1,0 +1,44 @@
+Copyright (c) 2026 Parallax. All rights reserved.
+
+This repository and everything in it (text, translations, images, video, posters,
+documents, data compilations, and the project's own code and design) is protected
+by copyright. No licence is granted to use it, except as stated below.
+
+Without the copyright holder's prior written permission, you may not:
+
+1. copy, reproduce, republish, distribute or sell any of it, in whole or in part;
+2. modify, adapt, translate or build on it, or rebuild the project's code or
+   design, whether by hand, with automated tools, or with AI tools that clone or
+   regenerate code, websites or designs;
+3. reverse engineer the project's code, except to the extent the law expressly
+   allows;
+4. scrape, crawl, mirror or bulk-download it, or use any part of it to train,
+   fine-tune or evaluate an AI or machine-learning model, or to build a dataset;
+5. use the project's name, logo or design in a way that suggests a connection
+   with, or endorsement by, the project.
+
+This does not limit what the law already allows without permission, such as fair
+dealing for research, study, criticism, review or news reporting. Viewing and
+forking this repository on GitHub remain available only to the extent GitHub's
+Terms of Service require for public repositories; a fork grants no right to use
+the content anywhere else. Sharing links is welcome.
+
+Third-party material keeps its own licence, and nothing in this notice restricts
+what that licence allows:
+
+- City of Launceston Address data: Creative Commons Attribution 4.0
+  International, https://creativecommons.org/licenses/by/4.0/
+  ("Contains data from City of Launceston").
+- Address Points and Local Government Areas from theLIST (c) State of Tasmania.
+  Only counts derived from them appear here. Whether the CC BY 3.0 AU badge in the
+  layers' copyright text grants a licence is under review.
+- Map boundaries: Australian Bureau of Statistics, Australian Statistical
+  Geography Standard Edition 3 (2021), Creative Commons Attribution 4.0
+  International, https://creativecommons.org/licenses/by/4.0/
+- The product film's music is synthesised in code for this project. Its sound effects are original
+  sounds supplied with the guizang product video skill; the rendering code from that skill (GNU AGPL-3.0)
+  is used only in the private repository and is not distributed here.
+
+No data custodian has endorsed this project.
+
+To ask for permission: https://www.linkedin.com/in/evan-h-165976301/

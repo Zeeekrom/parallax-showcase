@@ -1,0 +1,7 @@
+category,full0_base0,full0_base1,full1_base0,full1_base1
+noCounterpart,35,57,0,7
+exactMatch,0,0,0,32358
+fuzzyStreetMatchSingle,40,0,0,0
+fuzzyStreetMatchMultiple,0,0,0,0
+withinOverlappingPolygons,42,56,0,9
+noExactMatch,1281,2625,0,68

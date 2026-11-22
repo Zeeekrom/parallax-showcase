@@ -1,0 +1,3 @@
+Contains data from City of Launceston, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+Counts derived from Address Points from theLIST ©State of Tasmania; Local Government Areas from theLIST ©State of Tasmania. Licence of the source data: under review (see docs/LICENCES.md).
+No data custodian has endorsed this project.
