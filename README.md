@@ -19,7 +19,7 @@ The State's and the City of Launceston's public address records, reconciled for 
 - **No state record is published.** The public tables are counts, no finer than street level; counts of 1–4 show as "<5". → [the five public tables](docs/report/data/)
 - **It says where it might be wrong.** → [report, "Where I might be wrong"](docs/report/RECONCILIATION_REPORT.md#where-i-might-be-wrong)
 
-Independent project on real open data, published as aggregates; source, method details and a code walkthrough on request ([LinkedIn](https://www.linkedin.com/in/evan-h-165976301/)). → [Status, data and terms](#status-data-and-terms)
+Independent project on real open data, published as aggregates; source, method details and a code walkthrough available on request — [message me on LinkedIn](https://www.linkedin.com/in/evan-h-165976301/) or email [yuxianghuang2026@gmail.com](mailto:yuxianghuang2026@gmail.com). → [Status, data and terms](#status-data-and-terms)
 
 ## The problem
 
@@ -76,7 +76,7 @@ The full numbers, maps and limits are in the [public report](docs/report/RECONCI
 
 ## Want to see more?
 
-The source code, the pairing and category rules in full, the decision records, the tests and a code walkthrough on a call are not published here. [Message me on LinkedIn](https://www.linkedin.com/in/evan-h-165976301/).
+The source code, the pairing and category rules in full, the decision records, the tests and a code walkthrough on a call are not published here. They are available on request — [message me on LinkedIn](https://www.linkedin.com/in/evan-h-165976301/) or email [yuxianghuang2026@gmail.com](mailto:yuxianghuang2026@gmail.com).
 
 Methods borrowed with thanks from G-NAF's processing description, `vicmap2osm`, the ABS Data Quality Framework and `publicdata.au`.
 

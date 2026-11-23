@@ -21,7 +21,7 @@
 - **州侧记录一条都不公开。** 公开表只有计数，最细到街道一级；1–4 的计数写"<5"。→ [五张公开表](docs/report/data/)
 - **它写明了自己可能错在哪。** → [报告"我可能错在哪"一节](docs/report/RECONCILIATION_REPORT.zh-CN.md#我可能错在哪)
 
-独立项目，用真实公开数据，只发聚合；源码、方法细节和代码导览可约看（[领英](https://www.linkedin.com/in/evan-h-165976301/)）。→ [状态、数据与条款](#状态数据与条款)
+独立项目，用真实公开数据，只发聚合；源码、方法细节和代码导览可约看：[领英私信我](https://www.linkedin.com/in/evan-h-165976301/)，或发邮件到 [yuxianghuang2026@gmail.com](mailto:yuxianghuang2026@gmail.com)。→ [状态、数据与条款](#状态数据与条款)
 
 ## 问题在哪
 
@@ -78,7 +78,7 @@ Launceston 辖区内，36,578 个州侧地址点：
 
 ## 想看更多？
 
-源码、完整的配对和分类规则、决策记录、测试，以及通话里的代码导览都不在这里公开。[在领英上联系我](https://www.linkedin.com/in/evan-h-165976301/)。
+源码、完整的配对和分类规则、决策记录、测试，以及通话里的代码导览都不在这里公开，可约看：[领英私信我](https://www.linkedin.com/in/evan-h-165976301/)，或发邮件到 [yuxianghuang2026@gmail.com](mailto:yuxianghuang2026@gmail.com)。
 
 方法借自 G-NAF 的处理说明、`vicmap2osm`、ABS 数据质量框架和 `publicdata.au`，在此致谢。
 
