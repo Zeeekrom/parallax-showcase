@@ -52,6 +52,9 @@ An illustrative address; no real record is shown.
 - **No guessing in the main check.** A point is paired only if a parcel covers it.
 - **Nothing leaves without passing the publish gate.** No state record values, nothing finer than street level, small counts hidden.
 - **No model decides anything.** Every judgement is drafted by fixed rules and waits for a person.
+- **Every number traces back.** Each download is stored with a fingerprint, so a later change to it is caught, and every run is logged, so a figure can be traced to the exact data it came from.
+- **Checks run on every change.** The automated tests run on every change, and an extraction whose records don't add up to the source's own count fails and is not used.
+- **Little to attack.** It runs no online service and holds no passwords or keys; it reads only what the custodians publish openly, and its dependencies are checked for known vulnerabilities on every change.
 
 ## What it found
 
@@ -72,7 +75,7 @@ The full numbers, maps and limits are in the [public report](docs/report/RECONCI
 ## What works today
 
 - **Working:** the full run for Launceston — extraction, pairing, the seven categories, the review queue, and the public report, tables and maps. 609 automated tests, and each stage independently reviewed before it was accepted.
-- **Not finished:** a person has yet to approve the review queue class by class; checking the State's own placement rules (S4); a data dictionary and a zoomable map (S5).
+- **Not finished:** a person has yet to approve the review queue class by class (11,586 records in 135 classes, with 699 sample records to read); checking the State's own placement rules (S4); a data dictionary and a zoomable map (S5).
 
 ## Want to see more?
 
